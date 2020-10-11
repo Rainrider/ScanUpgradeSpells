@@ -1,0 +1,9 @@
+## Interface: 90000
+## Title: Scan Upgrade Spells
+## Version: @project-version@
+## X-Date: @project-date@
+## Notes: Scan spell upgrades from the spellbook.
+## Author: Rainrider
+## SavedVariables: UpgradeSpellsDB
+
+ScanUpgradeSpells.lua
